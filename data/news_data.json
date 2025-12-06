@@ -1,0 +1,402 @@
+{
+  "last_updated": "2025-12-06T15:30:29.814008",
+  "total_articles": 60,
+  "dates": {
+    "2025-12-06": {
+      "analysis": {
+        "date": "2025-12-06",
+        "summary": "AI 분석 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "keywords": [],
+        "trend_analysis": "",
+        "article_count": 11
+      },
+      "articles": [
+        {
+          "title": "Show GN: Hodu: Rust로 개발된 사용자 친화적 ML 툴킷",
+          "link": "https://news.hada.io/topic?id=24871",
+          "content": "프로토타이핑부터 배포까지, 메모리 안전성과 제로코스트 추상화를 갖춘 사용하기 쉬운 머신러닝 툴킷입니다.\n현재 1인 개발로 진행 중인 프로젝트입니다. 아직 개발 초기 단계이지만, 핵심 기능들이 어느 정도 안정화되어 공유드리게 되었습니다. 피드백이나 의견 주시면 감사하겠습니다.\nHodu가 제공",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T14:03:59+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "BMW PHEV: 안전 퓨즈 교체 비용이 매우 비쌈",
+          "link": "https://news.hada.io/topic?id=24870",
+          "content": "BMW 플러그인 하이브리드(PHEV)의 고전압 배터리 안전 퓨즈가 사고 감지 시 즉시 시스템을 차단하도록 설계되어 있으나, 교체 비용이 최소 5,000유로에 달함\n해당 퓨즈가 포함된 iBMUCP 모듈은 완전히 용접되어 있어 분해나 수리가 불가능하며, 교...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T09:55:47+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "미국 오염기업들이 EU의 인권 및 기후법을 다시 쓰고 있다",
+          "link": "https://news.hada.io/topic?id=24869",
+          "content": "유출된 문서에 따르면 Chevron, ExxonMobil, Koch 등 11개 다국적 기업이 ‘Competitiveness Roundtable’이라는 이름으로 EU의 기업 지속가능성 실사 지침(CSDDD) 을 무력화하려 한 것으로 드러남\n이들은 EU 의회·위원회·회원국 정부뿐 아니라 트럼프 행정...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T09:52:47+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "넷플릭스의 AV1 여정: 안드로이드에서 TV를 넘어 그 이후까지",
+          "link": "https://news.hada.io/topic?id=24868",
+          "content": "AV1 코덱이 넷플릭스 전체 스트리밍의 약 30%를 담당하며, 더 효율적이고 고품질의 영상 전송을 실현\n2020년 안드로이드 모바일에서 소프트웨어 디코더(dav1d) 기반으로 첫 도입 후, 2021년 스마트 TV, 2022년 웹 브라우저, 20...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T09:49:47+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "Cloudflare 2025년 12월 5일 장애",
+          "link": "https://news.hada.io/topic?id=24867",
+          "content": "2025년 12월 5일 08:47 UTC에 Cloudflare 네트워크 일부가 심각한 장애를 겪었으며, 약 25분 후인 09:12에 완전히 복구됨\n전체 HTTP 트래픽의 약 28% 가 영향을 받았고, 특정 조건을 만족한 고객만 장애를 경험함\n원인은 React Server Components...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T09:46:46+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "Boring.Notch - Mac 노치를 기능 허브로 바꾸는 macOS 유틸",
+          "link": "https://news.hada.io/topic?id=24865",
+          "content": "MacBook 상단 노치 공간을 음악 제어, 시각화, 파일 셸, 시스템 정보 등 다양한 기능 패널로 확장하는 macOS 유틸리티\n음악 재생·앨범 아트·볼륨 제어·시각화 등 노치 위젯 제공\n\n파일을 노치 영역에 드래그해 AirDrop·공유·경�...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T09:31:01+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "8개월간 5개의 LLM에 1.4억원씩 맡겨 주식 거래를 시뮬레이션한 실험",
+          "link": "https://news.hada.io/topic?id=24864",
+          "content": "GPT-5, Claude, Gemini, Grok, DeepSeek 등 5개의 대형 언어모델이 실제 시장 데이터를 기반으로 8개월간 가상 주식 거래를 수행\n각 모델은 10만 달러의 모의 자금으로 주요 종목을 일일 단위로 거래하며, 모든 의사결정과 포트폴리오 변화를 기...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T07:33:15+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "RAM 부족 사태, 결국 모두에게 닥친다",
+          "link": "https://news.hada.io/topic?id=24863",
+          "content": "전 세계적으로 메모리 가격이 급등하며 PC 조립자와 제조사 모두 영향을 받고 있음\nDDR5 64GB 메모리 키트가 올해 초 209달러에서 650달러로 3배 이상 상승\n\n\nMicron의 Crucial 브랜드 종료, Raspberry Pi 가격 인상, ...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T05:33:22+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "Uncloud - Kubernetes의 복잡함 없이 서버 간 컨테이너 앱을 배포하는 도구",
+          "link": "https://news.hada.io/topic?id=24862",
+          "content": "Uncloud는 Kubernetes 없이도 여러 서버에 컨테이너화된 웹 애플리케이션을 배포하고 확장할 수 있는 오픈소스 도구\n\nDocker Compose 기반 워크플로우를 유지하면서, 무중단 배포·자동 HTTPS·서버 간 스케일링을 지원\n\n중앙 제...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T04:32:58+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "Go vs. Rust vs. Zig에 대한 생각",
+          "link": "https://news.hada.io/topic?id=24861",
+          "content": "세 언어의 철학과 가치관의 차이를 중심으로, 각 언어가 어떤 문제를 해결하려는지 비교\n\nGo는 단순성과 안정성을 중시하며, 기능을 최소화해 협업과 유지보수를 쉽게 만드는 언어로 설명됨\n\nRust는 안전성과 성능을 동시에 추구하며, 복...",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T03:34:09+09:00",
+          "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스"
+        },
+        {
+          "title": "Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first",
+          "link": "https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/",
+          "content": "The project marks at least the second time Winkelmann has become the art world's main character.",
+          "published": "2025-12-06",
+          "published_datetime": "2025-12-06T00:35:28+00:00",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    "2025-12-05": {
+      "analysis": {
+        "date": "2025-12-05",
+        "summary": "AI 분석 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "keywords": [],
+        "trend_analysis": "",
+        "article_count": 29
+      },
+      "articles": [
+        {
+          "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
+          "link": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/",
+          "content": "Yoodli counts Google, Snowflake, and Databricks among its customers.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T23:43:58+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+          "link": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
+          "content": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T23:38:59+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Waymo to issue software recall over how robotaxis behave around school buses",
+          "link": "https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/",
+          "content": "The voluntary recall comes as scrutiny by federal regulators and local school district officials increases.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T23:11:50+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS needs you to believe in AI agents",
+          "link": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+          "content": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and database discounts that got developers cheering, it&#8217;s still fighting to prove it can compete beyond infrastructure.&#160; This week [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T22:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Feds find more complaints of Tesla’s FSD running red lights and crossing lanes",
+          "link": "https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/",
+          "content": "The National Highway Traffic Safety Administration has identified at least 80 incidents.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T21:46:32+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "This startup built a Fitbit for your brain to combat chronic stress",
+          "link": "https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/",
+          "content": "Forenza collaborated with data scientists and biomedical engineers to develop Awear, a small device worn behind the ear for continuous brainwave monitoring. The device transmits results to an app, which provides information about the wearer’s mood and offers AI-powered coaching advice for managing stress and improving emotional resilience.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T21:07:52+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company",
+          "link": "https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/",
+          "content": "The eye-popping figure reflects how routine mega-valuations have become in private markets.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T21:04:40+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta acquires AI device startup Limitless",
+          "link": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+          "content": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T21:02:13+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT’s user growth has slowed, report finds",
+          "link": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
+          "content": "ChatGPT's global monthly active users only grew by around 5% from August to November, while Gemini's users grew by about 30%.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T20:06:03+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
+          "link": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
+          "content": "AWS is releasing a lot of new AI tech, but the cloud infrastructure giant's enterprise customers may not be ready for it yet.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T18:05:35+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "eSIM adoption is on the rise thanks to travel and device compatibility",
+          "link": "https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/",
+          "content": "As a technology, eSIM has been around for a decade now. However, global eSIM adoption was around 3% last year and will only cross 5% this year. Despite these figures, analysts, eSIM-providing startups, and investors are bullish about eSIM's upward trajectory, largely thanks to travel.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T17:27:53+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC",
+          "link": "https://techcrunch.com/2025/12/05/new-knoway-robotaxis-cause-chaos-in-upcoming-grand-theft-auto-online-dlc/",
+          "content": "The inclusion of the Waymo look-a-likes appears to be part of a larger storyline that will encourage players to \"stop the development of a mass surveillance network.\"",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T17:25:28+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "New streaming channel launches to give viewers a peek into city council meetings",
+          "link": "https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/",
+          "content": "Hamlet TV is a way to help keep citizens informed of what's happening inside local governments.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T17:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The New York Times is suing Perplexity for copyright infringement",
+          "link": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
+          "content": "The New York Times filed a copyright lawsuit against Perplexity, joining other publishers using legal action as leverage to force AI companies into licensing deals that compensate content creators.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T16:03:59+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
+          "link": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+          "content": "Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T15:27:37+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Energy storage industry set aggressive goals for 2025 — and already crushed them",
+          "link": "https://techcrunch.com/2025/12/05/energy-storage-industry-set-aggressive-goals-for-2025-and-already-crushed-them/",
+          "content": "The battery storage industry in the U.S. has grown in leaps and bounds in recent years, surpassing its most aggressive targets to become one of the largest new sources of power on the grid.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T15:25:28+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "In its first DSA penalty, EU fines X €120M for ‘deceptive’ blue check verification system",
+          "link": "https://techcrunch.com/2025/12/05/in-its-first-dsa-penalty-eu-fines-x-e120m-for-deceptive-blue-check-verification-system/",
+          "content": "The EC is taking issue with the fact that X, the social network formerly known as Twitter, has been allowing anyone to buy a \"blue checkmark,\" the platform's long-standing symbol that a user has been verified to be who they are claiming to be.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T15:13:40+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Petco confirms security lapse exposed customers’ personal data",
+          "link": "https://techcrunch.com/2025/12/05/petco-confirms-security-lapse-exposed-customers-personal-data/",
+          "content": "The pet company has published almost no details about what happened, who was affected, and what personal data was exposed.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:52:19+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Netflix to acquire Warner Bros. in a disruptive deal valued at $82.7B",
+          "link": "https://techcrunch.com/2025/12/05/netflix-to-acquire-warner-bros-in-a-disruptive-deal-valued-at-82-7b/",
+          "content": "In one of the most groundbreaking deals the streaming world has ever seen, Netflix acquires Warner Bros. for $82.7 billion.",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:08:07+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Verge’s 2025 holiday gift guide",
+          "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+          "content": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we did [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T19:08:39-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Welcome to the big leagues, Netflix",
+          "link": "https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs",
+          "content": "Warner Bros. has an infamous history of being bought by other companies and then quickly ending up back on the market after its new owners realize how difficult it is to capitalize on a legacy production studio's assets. Those challenges are part of what doomed WB's mergers with AOL and AT&#38;T, who bought the studio [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T17:02:58-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Chamberlain blocks smart home integrations with its garage door openers — again",
+          "link": "https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers",
+          "content": "Garage door opener manufacturer The Chamberlain Group has launched a new version of the communication platform that powers its connected garage door openers - and it's bad news for smart home users. The new Security+ 3.0 platform, launching alongside Chamberlain's latest openers, shuts down the workarounds that third-party accessory makers such as Tailwind, Meross, and [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T16:00:00-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Star Wars’ original theatrical cut returns to theaters in 2027",
+          "link": "https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date",
+          "content": "Disney is bringing a “newly restored version” of the original, 1977 theatrical cut of Star Wars back to theaters on February 19th, 2027. It will only be available in theaters for “a limited time,” Disney says, and it’s being released as part of “Lucasfilm’s yearlong 50th anniversary celebration” for the franchise. Tickets aren’t on sale [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T15:44:13-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Pantone’s ‘Cloud Dancer’ color party is a recession indicator",
+          "link": "https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party",
+          "content": "Pantone's color of the year for 2026 is white - sorry, Cloud Dancer. Pantone announced the shade on Thursday, and describes it as a \"discrete white hue offering a promise of clarity.\" The accompanying image shows a person with cropped hair in billowy white clothing, arms outstretched over a background of clouds. \"PANTONE 11-4201 Cloud [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:59:54-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal",
+          "link": "https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung",
+          "content": "It's been well established that the Trump Phone doesn't exist. But that isn't the only phone Trump Mobile sells. It also offers a range of refurbished Apple and Samsung handsets that you can buy right now. You really shouldn't though. I was relieved reading Allison's coverage over the last two weeks to discover that not [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:34:38-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Horses is a hit, but its studio might still be in trouble",
+          "link": "https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship",
+          "content": "After indie narrative horror game Horses was banned from Steam two years ago, it put the studio, Santa Ragione, at risk of closure. Studio cofounder and Horses producer Pietro Righi Riva had to make a difficult phone call to the game’s director, Italian filmmaker Andrea Lucco Borlera. “I was terrified for him,” Riva said in [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:00:31-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Chrome can now autofill details from your Google account",
+          "link": "https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet",
+          "content": "Google has announced several autofill improvements being rolled out to the mobile and desktop versions of Chrome. The updates will give autofill access to more of your data from places like Google Wallet and make it easier to select the right info a form is asking for when there are multiple suggestions. Autofill can now [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T14:00:00-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "You can now use Pixel phones as a Switch 2 webcam",
+          "link": "https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam",
+          "content": "When it launched the Switch 2’s compatibility with various webcams was hit or miss. A webcam isn’t a necessary accessory, but since the Switch 2 lacks one of its own, you need one to take full advantage of the console’s GameChat feature that can livestream players’ faces during multiplayer matches. Switch 2 webcam compatibility has [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T13:46:37-05:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "The Luigi Mangione trial is all about narrative control",
+          "link": "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
+          "content": "On Monday, several dozen members of the public are lined up outside 100 Centre Street in Lower Manhattan, hoping to squeeze into the courtroom to hear testimony from witnesses called by the state against Luigi Mangione - the man accused of shooting and killing UnitedHealthcare CEO Brian Thompson a year ago. Despite the endless news [&#8230;]",
+          "published": "2025-12-05",
+          "published_datetime": "2025-12-05T13:30:00-05:00",
+          "source": "The Verge"
+        }
+      ]
+    },
+    "2025-12-04": {
+      "analysis": {
+        "date": "2025-12-04",
+        "summary": "AI 분석 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "keywords": [],
+        "trend_analysis": "",
+        "article_count": 1
+      },
+      "articles": [
+        {
+          "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
+          "link": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/",
+          "content": "Defendants were convicted of similar crimes a decade ago. How were they cleared again?",
+          "published": "2025-12-04",
+          "published_datetime": "2025-12-04T21:51:36+00:00",
+          "source": "Biz & IT – Ars Technica"
+        }
+      ]
+    },
+    "2025-12-03": {
+      "analysis": {
+        "date": "2025-12-03",
+        "summary": "AI 분석 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "keywords": [],
+        "trend_analysis": "",
+        "article_count": 3
+      },
+      "articles": [
+        {
+          "title": "Admins and defenders gird themselves against maximum-severity server vuln",
+          "link": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
+          "content": "Open source React executes malicious code with malformed HTML—no authentication needed.",
+          "published": "2025-12-03",
+          "published_datetime": "2025-12-03T23:16:03+00:00",
+          "source": "Biz & IT – Ars Technica"
+        },
+        {
+          "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+          "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+          "content": "Report: Microsoft declared \"the era of AI agents\" in May, but enterprise customers aren't buying.",
+          "published": "2025-12-03",
+          "published_datetime": "2025-12-03T18:24:06+00:00",
+          "source": "Biz & IT – Ars Technica"
+        },
+        {
+          "title": "Fraudulent gambling network may actually be something more nefarious",
+          "link": "https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/",
+          "content": "Researchers say there's more to the network, which has operated for 14 years.",
+          "published": "2025-12-03",
+          "published_datetime": "2025-12-03T17:23:26+00:00",
+          "source": "Biz & IT – Ars Technica"
+        }
+      ]
+    }
+  }
+}
