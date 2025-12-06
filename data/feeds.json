@@ -22,5 +22,9 @@
   {
     "name": "hada",
     "url": "https://news.hada.io/rss/news"
+  },
+  {
+    "name": "wishket",
+    "url": "https://yozm.wishket.com/magazine/feed/"
   }
 ]
