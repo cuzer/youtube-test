@@ -18,5 +18,9 @@
   {
     "name": "bloter",
     "url": "https://www.bloter.net/rss/allArticle.xml"
+  },
+  {
+    "name": "hada",
+    "url": "https://news.hada.io/rss/news"
   }
 ]
