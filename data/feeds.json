@@ -1,0 +1,18 @@
+[
+  {
+    "name": "GeekNews",
+    "url": "https://news.hada.io/rss/news"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"
+  }
+]
